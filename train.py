@@ -15,6 +15,7 @@ import tensorboard_logger as tb_logger
 import arguments
 
 
+
 def main():
     # Hyper Parameters
     parser = arguments.get_argument_parser()
